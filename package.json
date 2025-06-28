@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
+  "type": "module",
   "keywords": [
     "sample",
     "backend",
@@ -15,7 +16,10 @@
   "dependencies": {
     "git": "^0.1.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prateeknigam/node.git"

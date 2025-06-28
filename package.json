@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "backend",
+    "code"
+  ],
+  "author": "Prateek Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateeknigam/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prateeknigam/node/issues"
+  },
+  "homepage": "https://github.com/prateeknigam/node#readme",
+  "description": ""
+}
